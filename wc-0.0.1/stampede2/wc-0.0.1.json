@@ -20,7 +20,7 @@
         "executionType": "HPC",
         "executionSystem": "train460.TRAINING-OPEN.exec.stampede2.HPC",
         "deploymentPath": "applications/wc-0.0.1/stampede2/",
-        "deploymentSystem": "utrc-home.train460",
+        "deploymentSystem": "utrc-home.jcarson",
         "templatePath": "wrapper.sh",
         "testPath": "test.sh",
         "checkpointable": false,
