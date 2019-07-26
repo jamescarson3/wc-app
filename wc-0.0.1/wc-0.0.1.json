@@ -1,6 +1,6 @@
 {
-        "id": "wc-0.0.1",
-        "name": "wc",
+        "id": "jcarson-wc-0.0.1",
+        "name": "jcarson-wc",
         "icon": null,
         "parallelism": "PARALLEL",
         "defaultProcessorsPerNode": 68,
@@ -11,7 +11,7 @@
         "version": "0.0.1",
         "isPublic": false,
         "helpURI": "",
-        "label": "wc (0.0.1)",
+        "label": "wc (0.0.1) jcarson",
         "owner": "jcarson",
         "shortDescription": "Word Count.",
         "longDescription": "Word Count. Word Count! WORD COUNT!",
