@@ -19,7 +19,7 @@
         "ontology": [],
         "executionType": "HPC",
         "executionSystem": "jcarson.TRAINING-OPEN.exec.stampede2.HPC",
-        "deploymentPath": "applications/wc-0.0.1/stampede2/",
+        "deploymentPath": "stampede2/apps/wc-app/wc-0.0.1/",
         "deploymentSystem": "utrc-home.jcarson",
         "templatePath": "wrapper.sh",
         "testPath": "test.sh",
